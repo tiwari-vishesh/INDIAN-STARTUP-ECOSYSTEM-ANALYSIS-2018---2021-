@@ -4,10 +4,6 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
 ### Scenario
 Your company executives have an interest in investing in the Indian Startup Ecosystem. You have been tasked with analysing the available data from 2018 to 2021 and advice on the best course of action for the company.
 
@@ -22,35 +18,6 @@ These are the key libraries used in the project.
 * Thefuzz
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is a list things you need to run the notebook and how to install them.
-
-* Python V3.11.6
-```pip install Python```
-
-* Pandas
-```pip install pandas```
-
-* Matplotlib
-```pip install matplotlib```
-
-* Seaborn
-```pip install seaborn```
-
-* Jupyter Notebook
-```pip install Jupyter```
-
-* Thefuzz
-```pip install thefuzz```
 
 
 
