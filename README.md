@@ -24,7 +24,7 @@ These are the key libraries used in the project.
 <!-- CONTACT -->
 ## Contact
 
-Vishesh Tiwari - [Linkedin]([https://www.linkedin.com/in/vishesh-tiwari-5730a0115/]) - visheshtiwari94@gmail.com
+Vishesh Tiwari - [Linkedin](https://www.linkedin.com/in/vishesh-tiwari-5730a0115/) - visheshtiwari94@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
